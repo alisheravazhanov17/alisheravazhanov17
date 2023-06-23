@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alisheravazhanov17
+- 👀 I’m interested in programming
+- Coding is my life
